@@ -12,13 +12,14 @@ import room
 speed(7)
 
 # Draw the Level 4 version of the room
-window = room.draw_room(level = 4, n_alcoves = 1)
+window = room.draw_room(level = 4, n_alcoves = 1, radius = 5)
 
 ###
 # Start your code here
- 
- 
- 
+
+
+
+
 # End your code here
 ###
  
